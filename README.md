@@ -35,7 +35,7 @@ In short: This file is where I edit current data connections, queries, DAX, and 
   - Edit titles, tooltips, colors, and layout.
 - The report can be opened and edited without touching the data model.
 
-In short: This file is where I adjust the dashboard to be ready for demo.
+In short: This file is where I adjusted the dashboard to be ready for ealier demos (no longer needed).
 
 ---
 
